@@ -83,9 +83,9 @@ This dataset's flights involve a total of five different routes, and the aerial 
 # Absolute Wind
 In the "wind" folder, we have recorded the absolute wind condition information for the collection days, providing users with real-world environmental references. This is distinct from the relative wind condition information in the data files, which was collected during the UAV's flight along the reference trajectory at different speeds. Absolute wind conditions refer to wind data collected while the UAV is hovering at a fixed altitude. In this folder, we differentiate the absolute wind condition data from different collection days using the naming convention: \[UAV Name\]\_wind\_\[Collection Time\]_\[Collection Altitude\].csv. The "Collection Altitude" indicates the height at which the UAV hovered during data collection. For example, "102040" signifies that the UAV hovered at 10m, 20m, and 40m, while "20" indicates that the UAV only hovered at 20m to collect wind conditions.
 
-# Collector Information
-The existing 270 flight data entries in this dataset were collected by five individuals, and their full names, email addresses, and organizations are presented in the following table.
-| Collector (Pick man) | Full name | Email | Organization |
+# Dataset Collectors and Contributors
+The 270 flight data entries in the AMOVFLY dataset were collected by the following individuals. Their full names, email addresses, and associated organizations are listed in the table below:
+| Collector | Full name | Email | Organization |
 | --- | --- |--- | --- |
 | lmj or mj  | Mengjie Lee | lmj1023@mail.nwpu.edu.cn | PhD student, Northwestern Polytechnical University  |
 | hfh | Fanghao Han | FhHan996@163.com | Master student, Northwestern Polytechnical University |
