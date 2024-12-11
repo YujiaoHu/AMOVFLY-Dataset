@@ -87,8 +87,8 @@ In the "wind" folder, we have recorded the absolute wind condition information f
 The existing 270 flight data entries in this dataset were collected by five individuals, and their full names, email addresses, and organizations are presented in the following table.
 | Collector (Pick man) | Full name | Email | Organization |
 | --- | --- |--- | --- |
-| lmj or mj  | Mengjie Lee | lmj1023@mail.nwpu.edu.cn | PhD candidates, Northwestern Polytechnical University  |
-| hfh | Fanghao Han | FhHan996@163.com | Master candidates, Northwestern Polytechnical University |
-| ly | Yi Liu | roryliu@mail.nwpu.edu.cn | Master candidates, Northwestern Polytechnical University |
-| rcc | Chuncheng Ran | rcc@mail.nwpu.edu.cn | Master candidates, Northwestern Polytechnical University |
+| lmj or mj  | Mengjie Lee | lmj1023@mail.nwpu.edu.cn | PhD student, Northwestern Polytechnical University  |
+| hfh | Fanghao Han | FhHan996@163.com | Master student, Northwestern Polytechnical University |
+| ly | Yi Liu | roryliu@mail.nwpu.edu.cn | Master student, Northwestern Polytechnical University |
+| rcc | Chuncheng Ran | rcc@mail.nwpu.edu.cn | Master student, Northwestern Polytechnical University |
 | ltc | Tianci Li | 2188342623@qq.com |  /  |
